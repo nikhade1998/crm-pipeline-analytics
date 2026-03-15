@@ -1,0 +1,5 @@
+deal_id,deal_stage,start_date,closed_date,deal_amount
+D001,Prospecting,2024-01-10,2025-02-11,45678
+D002,Negotiation,2024-02-05,2025-04-11,335678
+D003,Closed,2024-03-12,2025-09-11,205678
+D004,Proposal,2024-02-20,2025-08-11,99678
