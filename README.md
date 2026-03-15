@@ -21,7 +21,7 @@ Industry → Company → Person → Deal → Revenue Metrics
 
 ## Business Metrics
 - Open Pipeline Revenue
-- Closed Won Revenue
+- Closed Revenue
 - Win Rate
 - Top Revenue Companies
 - Industry Level Performance
